@@ -10,5 +10,5 @@ spec:
   prune: true
   sourceRef:
     kind: GitRepository
-    name: ToDo-gitops
+    name: todo-gitops
   targetNamespace: default
